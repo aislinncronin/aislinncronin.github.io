@@ -56,6 +56,11 @@
 		box-sizing: border-box;
 	}
 
+
+.skills-logo {
+	height: 100px;
+	margin:10px;
+}
 /* Grid */
 
 	.row {
